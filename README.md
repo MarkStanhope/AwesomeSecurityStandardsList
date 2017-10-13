@@ -368,7 +368,7 @@ Particular industry sector.
 **UK**
 
 * [Open Banking Security Profile](https://www.openbanking.org.uk/read-write-apis/security-profile/id1-0-1/)
-
+* [Payment Services Directive II](http://www.legislation.gov.uk/uksi/2017/752/pdfs/uksi_20170752_en.pdf) 20170719 Version. 
 
 **USA**
 
