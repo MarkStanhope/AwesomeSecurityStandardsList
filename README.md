@@ -569,7 +569,7 @@ Andrés Sepúlveda rigged elections throughout Latin America for almost a decade
 <a name="baseline-tailor"></a>
 #### Baseline Tailor
 * [Github Baseline Tailor](https://github.com/usnistgov/sctools)
-* [NISTIR 8130 Baseline Tailor User Guide] (http://nvlpubs.nist.gov/nistpubs/ir/2016/NIST.IR.8130.pdf)
+* [NISTIR 8130 Baseline Tailor User Guide](http://nvlpubs.nist.gov/nistpubs/ir/2016/NIST.IR.8130.pdf)
 
 <a name="ffiec-assessment-tool"></a>
 #### FFIEC Assessment Tool
