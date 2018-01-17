@@ -746,6 +746,7 @@ FIRST is the Forum of Incident Response and Security Teams. The idea of FIRST go
 * [8011 Volume 1  Automation Support for Security Control Assessments, Volume 1: Overview](https://www.nist.gov/publications/automation-support-security-control-assessments-volume-1-overview)
 * [8011 Volume 2 Automation Support for Security Control Assessments, Volume 2: Hardware Asset Management](https://www.nist.gov/publications/automation-support-security-control-assessments-volume-2-hardware-asset-management)
 * [Diversifying Network Services under Cost Constraints for Better Resilience against Unknown Attacks](https://www.nist.gov/publications/diversifying-network-services-under-cost-constraints-better-resilience-against-unknown)
+* [NIST Releases Draft NISTIR 7511 Revision 5, Security Content Automation Protocol (SCAP) Version 1.3 Validation Program Test Requirements](https://csrc.nist.gov/publications/detail/nistir/7511/rev-5/draft)
 
 <a name="us-cert"></a>
 ### US-CERT
