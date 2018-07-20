@@ -198,6 +198,8 @@ The ISO/IEC 27000 family of standards helps organizations keep information asset
 Using this family of standards will help your organization manage the security of assets such as financial information, intellectual property, employee details or information entrusted to you by third parties.
 ISO/IEC 27001 is the best-known standard in the family providing requirements for an information security management system (ISMS).
 
+* [ISO/IEC 27000 family - Information security management systems](https://www.iso.org/isoiec-27001-information-security.html)
+* [ISO/IEC 27001:2013 -Information technology — Security techniques — Information security management systems — Requirements](https://www.iso.org/obp/ui/#iso:std:iso-iec:27001:ed-2:v1:en)
 * [ISO/IEC 27000:2016 Preview
 Information technology -- Security techniques -- Information security management systems -- Overview and vocabulary](https://www.iso.org/standard/66435.html)
 * [ISO/IEC DIS 27000 Preview
